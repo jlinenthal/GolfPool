@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/usOpenGolfPool/precache-manifest.c0a579c34fcccb0b9447e0c3ebceff54.js"
+  "/usOpenGolfPool/precache-manifest.916f15392fe76613e3191b55736d8de4.js"
 );
 
 self.addEventListener('message', (event) => {
