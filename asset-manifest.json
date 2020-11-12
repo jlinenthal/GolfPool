@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/usOpenGolfPool/static/css/main.29f0c7c2.chunk.css",
-    "main.js": "/usOpenGolfPool/static/js/main.f10bbae8.chunk.js",
-    "main.js.map": "/usOpenGolfPool/static/js/main.f10bbae8.chunk.js.map",
-    "runtime-main.js": "/usOpenGolfPool/static/js/runtime-main.445977db.js",
-    "runtime-main.js.map": "/usOpenGolfPool/static/js/runtime-main.445977db.js.map",
-    "static/js/2.321909b2.chunk.js": "/usOpenGolfPool/static/js/2.321909b2.chunk.js",
-    "static/js/2.321909b2.chunk.js.map": "/usOpenGolfPool/static/js/2.321909b2.chunk.js.map",
-    "index.html": "/usOpenGolfPool/index.html",
-    "precache-manifest.e42bed27e03bc5f5324352d3952a67c7.js": "/usOpenGolfPool/precache-manifest.e42bed27e03bc5f5324352d3952a67c7.js",
-    "service-worker.js": "/usOpenGolfPool/service-worker.js",
-    "static/css/main.29f0c7c2.chunk.css.map": "/usOpenGolfPool/static/css/main.29f0c7c2.chunk.css.map",
-    "static/js/2.321909b2.chunk.js.LICENSE.txt": "/usOpenGolfPool/static/js/2.321909b2.chunk.js.LICENSE.txt"
+    "main.css": "/GolfPool/static/css/main.29f0c7c2.chunk.css",
+    "main.js": "/GolfPool/static/js/main.60ceb00f.chunk.js",
+    "main.js.map": "/GolfPool/static/js/main.60ceb00f.chunk.js.map",
+    "runtime-main.js": "/GolfPool/static/js/runtime-main.c3cd4f84.js",
+    "runtime-main.js.map": "/GolfPool/static/js/runtime-main.c3cd4f84.js.map",
+    "static/js/2.81df23d1.chunk.js": "/GolfPool/static/js/2.81df23d1.chunk.js",
+    "static/js/2.81df23d1.chunk.js.map": "/GolfPool/static/js/2.81df23d1.chunk.js.map",
+    "index.html": "/GolfPool/index.html",
+    "precache-manifest.9820a41b00aec45e4b69210db9f39ab3.js": "/GolfPool/precache-manifest.9820a41b00aec45e4b69210db9f39ab3.js",
+    "service-worker.js": "/GolfPool/service-worker.js",
+    "static/css/main.29f0c7c2.chunk.css.map": "/GolfPool/static/css/main.29f0c7c2.chunk.css.map",
+    "static/js/2.81df23d1.chunk.js.LICENSE.txt": "/GolfPool/static/js/2.81df23d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.445977db.js",
-    "static/js/2.321909b2.chunk.js",
+    "static/js/runtime-main.c3cd4f84.js",
+    "static/js/2.81df23d1.chunk.js",
     "static/css/main.29f0c7c2.chunk.css",
-    "static/js/main.f10bbae8.chunk.js"
+    "static/js/main.60ceb00f.chunk.js"
   ]
 }
